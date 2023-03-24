@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+header {
+  margin-bottom: 40px;
+}
+
+section {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-right: 15px;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+}
+
+.toolbar {
+  width: 375px;
+}
+
+.container-1 {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.container-2 {
+  font-family: Poppins, sans-serif;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+}
+
+.headline {
+  margin: 20px, 0, 20px, 0;
+  font-family: Poppins, sans-serif;
+  color: #172b4d;
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  background-image: url(/images/headline-background-mobile.png);
+  background-position: 0% 20%;
+}
+
+.logo {
+  margin-top: 20px;
+}
+
+.desc {
+  margin-top: 14px;
+  font-weight: 400;
+}
+
+.container-3 {
+  display: flex;
+}
+
+.connect {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  color: #7f8cff;
+}
+
+.conn.wire.batt {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.linkedin.m.github.sign {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.lin {
+  width: 20px;
+}
+
+.clock-im {
+  font-family: Roboto, sans-serif;
+  color: black;
+}
+
+.conn-im {
+  width: 18px;
+}
+
+.wire-im {
+  width: 18px;
+}
+
+.batt-im {
+  width: 30px;
+}
+
+.menu-im {
+  width: 60px;
+}
+
+.mylogo-im {
+  width: 76px;
+}
+
+.space1 {
+  width: 70%;
+}
+
+.space2 {
+  width: 75%;
+}
